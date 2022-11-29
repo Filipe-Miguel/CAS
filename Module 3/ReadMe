@@ -1,6 +1,6 @@
 This is the folder for M3 of the CAS
 
-It contains the datasets of photos used for the machine learning code. 
+It contains the datasets of photos used for the machine learning code. The photos used are in folder "data". 
 
 It contains the notebooks for the two different works we are doing in the final M3 project. The CAS_M3_ML file is the identification of animal species, while the Cluster dogs
 is the second work, on the identification of clusters of GPS points of dogs.
