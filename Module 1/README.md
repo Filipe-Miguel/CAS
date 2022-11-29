@@ -1,1 +1,2 @@
-CAS M1 folder 
+This is the folder for CAS M1
+ 
